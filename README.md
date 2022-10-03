@@ -1,9 +1,7 @@
-<div align="center">
-  <a href="https://github.com/jhsonmac">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhsonmac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhsonmac&layout=compact&langs_count=7&theme=dracula"/>
-    
-</div>
+![](./profile-3d-contrib/profile-night-green.svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhsonmac&label=Profile%20views&color=0e75b6&style=flat" alt="antilt-dev" /> </p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="jhsonmac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jhsonmac-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
